@@ -1,0 +1,7 @@
+# Virtual Environment
+
+.venv
+
+# Python dependencies
+
+__pycache__
